@@ -1,0 +1,20 @@
+* h1{
+    font-size: 3rem;
+    font-weight: bold;
+    color:#000000 ;
+}
+
+.margin_top{
+    margin-top: 50px  !important;
+    margin-bottom: 50px !important;
+}
+
+.cust_width{
+    width: 80%;
+    margin: auto;
+}
+.cust_width h1{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #D29F1F;
+}
