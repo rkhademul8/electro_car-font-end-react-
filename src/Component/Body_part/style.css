@@ -30,5 +30,12 @@
     margin: auto;
     border-bottom: 2px solid red;
     
-    
+}
+
+.margin_top_btm{
+   margin-top: 200px;
+}
+
+.white_c{
+    color: #fff;
 }
